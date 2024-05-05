@@ -4,7 +4,7 @@ function insert_Row() {
     var tr=table.insertRow(0);
     var td1=tr.insertCell(0)
     var td2=tr.insertCell(1)
-    td1.innerText="New Cell"
+    td1.innerText="New Cell1"
     td2.innerText="New Cell2"
 	
 }
